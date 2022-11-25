@@ -10,10 +10,10 @@
 - Automated Admin can not login with invalid username 
 - Automated Admin login successfully with valid username and password
 - Automated Admin can create 2 employee.
-- Automated Admin can logOUt successfully
+- Automated Admin can logout successfully
 - Automated User can login successfully
 - Automated User can update userinfo successfully 
-- Automated User cand loguot successfully
+- Automated User cand logout successfully
 
 
 ## How to run this project
@@ -31,7 +31,8 @@
 ## Test Cases 
 - Google Sheet link - https://docs.google.com/spreadsheets/d/1p5rHn_BoD1-VLydC0lOTCodJzy6EGpV6/edit?usp=sharing&ouid=115313547389812161093&rtpof=true&sd=true
 
-## Report Output Video - https://drive.google.com/file/d/1MAsa0kZYbeRKQfLoT2EBRAZheTvVfNNJ/view?usp=sharing
+## Report Output Video 
+- Google Drive link - https://drive.google.com/file/d/1MAsa0kZYbeRKQfLoT2EBRAZheTvVfNNJ/view?usp=sharing
 
 ## Allure Report Screenshots
 
