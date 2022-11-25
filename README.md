@@ -10,7 +10,7 @@
 - Automated Admin can not login with invalid username 
 - Automated Admin login successfully with valid username and password
 - Automated Admin can create 2 employee.
-- Automated Admin can loguot successfully
+- Automated Admin can logOUt successfully
 - Automated User can login successfully
 - Automated User can update userinfo successfully 
 - Automated User cand loguot successfully
