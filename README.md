@@ -31,7 +31,7 @@
 ## Test Cases 
 - Google Sheet link - https://docs.google.com/spreadsheets/d/1p5rHn_BoD1-VLydC0lOTCodJzy6EGpV6/edit?usp=sharing&ouid=115313547389812161093&rtpof=true&sd=true
 
-## Report Output Video 
+## Automation Output Video 
 - Google Drive link - https://drive.google.com/file/d/1MAsa0kZYbeRKQfLoT2EBRAZheTvVfNNJ/view?usp=sharing
 
 ## Allure Report Screenshots
