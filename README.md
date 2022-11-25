@@ -13,7 +13,7 @@
 - Automated Admin can logout successfully
 - Automated User can login successfully
 - Automated User can update userinfo successfully 
-- Automated User cand logout successfully
+- Automated User can logout successfully
 
 
 ## How to run this project
